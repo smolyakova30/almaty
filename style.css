@@ -1,0 +1,12 @@
+.title {
+    font-family: 'Aboreto', cursive;
+}
+
+a:hover {
+    color: green;
+}
+
+.topic{
+    font-family: 'Aboreto', cursive;
+    font-weight: bold;
+}
