@@ -10,3 +10,7 @@ a:hover {
     font-family: 'Aboreto', cursive;
     font-weight: bold;
 }
+
+.nav-link {
+    font-weight: bold;
+}
